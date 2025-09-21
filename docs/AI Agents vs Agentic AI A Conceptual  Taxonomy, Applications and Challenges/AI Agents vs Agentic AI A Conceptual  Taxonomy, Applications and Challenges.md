@@ -1,7 +1,5 @@
 
-Original Source:  https://arxiv.org/pdf/2505.10468
-
-原文地址: https://arxiv.org/pdf/2505.10468
+Original Source (原文地址):  https://arxiv.org/pdf/2505.10468
 
 ## Title and authors（标题与作者）
 
@@ -79,10 +77,10 @@ Original Source:  https://arxiv.org/pdf/2505.10468
 
 ---
 
+![Figure 1](./images/Figure_1.png)
+
 ## [Figure 1: Global Google search trends showing rising interest in "AI Agents" and "Agentic AI" since November 2022 when the ChatGPT was first introduced.]  
 [图 1：自 2022 年 11 月（ChatGPT 首次推出）以来，“AI Agents”和“Agentic AI”的全球 Google 搜索趋势上升。]
-
-（按你的要求，图片仅保留名称占位与图注，不展示图片内容或数值细节）
 
 ---
 
@@ -93,7 +91,6 @@ Original Source:  https://arxiv.org/pdf/2505.10468
 > AI around 2022 (Before ChatGPT was introduced), the de-  
 > velopment of autonomous and intelligent agents was deeply  
 > rooted in foundational paradigms of artificial intelligence,  
->   
 > particularly multi-agent systems (MAS) and expert systems,  
 > which emphasized social action and distributed intelligence  
 > [1], [2]. Notably, Castelfranchi [3] laid the critical ground-  
@@ -110,7 +107,6 @@ Original Source:  https://arxiv.org/pdf/2505.10468
 
 **中文**  
 > 在 2022 年前后（ChatGPT 推出之前）AI Agents 与 Agentic AI 尚未广泛采用之际，自主与智能体的研究深深扎根于人工智能的基础范式之中，  
->   
 > 尤其是多智能体系统（MAS）与专家系统，它们强调社会行为与分布式智能[1]，[2]。值得注意的是，Castelfranchi[3] 通过引入社会行为、结构与心智的本体范畴奠定了关键基础，提出社会性源自共享环境中个体智能体的行动与认知过程，目标委派与采纳等概念构成合作与组织行为的根基。类似地，Ferber[4] 为 MAS 提供了全面的框架，将智能体定义为具备自主、感知与通信能力的实体，并强调其在分布式问题求解、协作机器人与合成世界仿真中的应用。
 
 ---
@@ -163,11 +159,6 @@ Original Source:  https://arxiv.org/pdf/2505.10468
 
 **中文**  
 > 除了面向任务的推理之外，这些智能体对社会性交互的支持十分有限。早期会话系统如 ELIZA[13] 与 PARRY[14] 通过模式匹配与脚本式响应来模拟基础对话，但缺乏真正的理解或上下文适应。同样，在机器人领域，反应式智能体基于固定控制规则执行“感知—动作”循环，典型如早期的自主平台 Stanford Cart[15]。
-
----
-
-## [Figure placeholder for page header/footer elements omitted]  
-（说明：PDF 的分页标记与页眉注释属于版面信息，非正文内容，已按“无遗漏正文”的原则省略这些版式注释。）
 
 ---
 
@@ -370,8 +361,10 @@ Original Source:  https://arxiv.org/pdf/2505.10468
 
 ---
 
+![Figure 2](./images/Figure_2.png)
+
 ## [Figure 2: Mind map of this research for exploring concepts, ap- plications and challenges of AI Agents and Agentic AI. Each color-coded branch represents a key dimension of comparison: Architecture, Mechanisms, Scope/Complexity, Interaction, and Autonomy.]  
-[图 2：本研究的思维导图，展示 AI Agents 与 Agentic AI 的概念、应用与挑战。每个颜色分支代表一个关键比较维度：架构、机制、范围/复杂度、交互与自治。]
+[图 2：本研究的思维导图，展示 AI Agents 与 Agentic AI 的概念、应用与挑战。每个颜色分支代表一个关键比较维度：架构、机制、范围/复杂度、交互与自主性。]
 
 ---
 

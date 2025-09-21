@@ -57,7 +57,6 @@ agent_learn/
 ### 📧 联系方式
 
 - 🌟 **GitHub Issues**：[提交问题](https://github.com/betaHi/agent_learn/issues)
-- 💬 **讨论区**：[参与讨论](https://github.com/betaHi/agent_learn/discussions)
 
 ### 📜 许可证
 
@@ -122,7 +121,6 @@ We welcome all forms of contributions:
 ### 📧 Contact
 
 - 🌟 **GitHub Issues**: [Submit Issues](https://github.com/betaHi/agent_learn/issues)
-- 💬 **Discussions**: [Join Discussions](https://github.com/betaHi/agent_learn/discussions)
 
 ### 📜 License
 
